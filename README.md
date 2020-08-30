@@ -5,4 +5,4 @@ If you haven't used Gulp befora it is an automation tool like Webpack. Nowadays 
 
 `npm install` 
 
-As I said before we are using Gulp and it needs Node.js and npm to be installed on your machine.
+As I said before we are using Gulp and it needs Node.js and npm to be installed on your machine. After installing libraries with the above command you can check `package.json` file for the other commands.
